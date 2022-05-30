@@ -26,6 +26,24 @@ html{
   border-radius: 8px;
 }
 
+.cars{
+  background-repeat: no-repeat;
+  width: 64px;
+  height: 40px;
+}
+
+.sedan{
+  background-image: url("../images/icon-sedan.svg");
+}
+
+.suvs{
+  background-image: url("../images/icon-suv.svg");
+}
+
+.luxury{
+  background-image: url("../images/icon-luxury.svg");
+}
+
 .sedan-item{
   background-color: rgb(226, 134, 37);
 }
